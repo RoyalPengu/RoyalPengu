@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hoang Nguyen Le, aka @RoyalPengu and @RoyalPenguin
 - 👀 I’m interested in genomics, especially the interations of TF of adipocytes and macrophages
-- 🌱 I’m currently learning R and Python
-- 💞️ I’m looking to collaborate on: R and Python scrips 
-- 📫 How to reach me: DM me ;) 
+- 🌱 I’m currently studing Computational Biomedicine (Bioinformatition)
+- 💞️ I’m looking to collaborate on: Not open as of yet, I am drowning in Uni work
+- 📫 How to reach me: davidnhi@hotmail.com or DM me ;)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: My fav animals are penguins (what a shocker)
 
